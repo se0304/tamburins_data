@@ -1,0 +1,43 @@
+[
+
+    {
+
+        "id":4,
+        "title":"퍼퓸 비누 카모",
+        "imgUrl":"./img/soap5.jpg",
+        "content":"진득한 카모마일 | 부드러운 나무결 | 머스크",
+        "price":24000
+
+    },
+
+    {
+
+        "id":4,
+        "title":"퍼퓸 비누 버가샌달",
+        "imgUrl":"./img/soap6.jpg",
+        "content":"지중해의 베르가뭇 | 쌉싸래한 청귤 | 샌달우드",
+        "price":24000
+
+    },
+
+    {
+
+        "id":6,
+        "title":"퍼퓸 비누 라레",
+        "imgUrl":"./img/soap7.jpg",
+        "content":"이슬을 머금은 풋사과 | 화이트 튤립 | 샌달우드",
+        "price":24000
+
+    },
+
+    {
+
+        "id":7,
+        "title":"퍼퓸 비누 화이트다즐링",
+        "imgUrl":"./img/soap8.jpg",
+        "content":"화이트 샴페인 | 다즐링 티 | 크리미한 머스크",
+        "price":24000
+
+    }
+
+]
