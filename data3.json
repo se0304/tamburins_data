@@ -4,7 +4,8 @@
     "title":"퍼퓸 비누&쉘(CHAMO+VEIN)",
     "imgUrl":"/img/soap9.jpg",
     "content":"특별한 퍼퓸 핸드케어 세트",
-    "price":26500
+    "price":26500,
+    "text":"퍼퓸 비누 CHAMO와 퍼퓸 핸드크림 VEIN으로 구성하였습니다."
 },
 
 {
@@ -12,6 +13,7 @@
     "title":"퍼퓸 비누&쉘(CHAMO+FEY9)",
     "imgUrl":"/img/soap10.jpg",
     "content":"특별한 퍼퓸 핸드케어 세트",
-    "price":26500
+    "price":26500,
+    "text":"퍼퓸 비누 CHAMO와 퍼퓸 핸드크림 FEY9으로 구성하였습니다."
 }
 ]
