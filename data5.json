@@ -1,0 +1,37 @@
+[
+    {
+        
+            "id": 4,
+            "title":"SOUNDS OF NIGHT",
+            "imgUrl":"/img/candle5.jpg",
+            "content":"씁쓸한 프루티함 | 바람에 흔들리는 꽃의 향 | 고요함",
+            "price":28900
+        
+    },
+
+    {
+        "id": 5,
+        "title":"MULBERRY LEAVES",
+        "imgUrl":"/img/candle6.jpg",
+        "content":"회귀의 향 | 나무껍질의 눈물 | 내적 평온",
+        "price":28900
+    },
+
+    {
+        "id": 6,
+        "title":"COCOON MUSK",
+        "imgUrl":"/img/candle7.jpg",
+        "content":"패츌리 | 쌉사래한 풀 줄기 | 스모키함",
+        "price":28900
+    },
+
+    {
+        "id": 7,
+        "title":"CONCRETE BOOK STORE",
+        "imgUrl":"/img/candle10.jpg",
+        "content":"하우스 도산 익스클루시브",
+        "price":28900
+    }
+
+
+]
