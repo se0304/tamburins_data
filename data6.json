@@ -1,0 +1,37 @@
+[
+    {
+        "id":4,
+        "title":"퍼퓸핸드 샘플 키트",
+        "imgUrl":"/img/sample5.jpg",
+        "content":"퍼퓸핸드의 8가지 향",
+        "price":3000
+       
+    },
+
+    {
+        "id":5,
+        "title":"체인핸드 샘플 키트",
+        "imgUrl":"/img/sample6.jpg",
+        "content":"체인핸드의 4가지 향",
+        "price":3000
+       
+    },
+
+    {
+        "id":6,
+        "title":"페이퍼 프래그런스 샘플 키트",
+        "imgUrl":"/img/sample7.jpg",
+        "content":"멀티프래그런스",
+        "price":5000
+       
+    },
+
+    {
+        "id":7,
+        "title":"워시&에멀전 샘플 키트",
+        "imgUrl":"/img/sample8.jpg",
+        "content":"샘플 키트",
+        "price":3500
+       
+    }
+]
